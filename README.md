@@ -8,7 +8,7 @@
 |---|---|
 | 분석 목적 | 신규 고객 이탈을 고객 여정 단계별 경험 차이의 관점에서 분석 |
 | 데이터 | [eCommerce Events History in Cosmetics Shop](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop) (약 2,070만 건) |
-| 분석 기간 | 2024.05 ~ 2020.08 |
+| 분석 기간 | 2024.05 ~ 2024.08 |
 | 분석 대상 | 관측기간 내 첫 구매가 확인된 고객 (110,518명) |
 | 이탈 정의 | 첫 구매 이후 30일 내 재구매 없으면 이탈 |
 | 사용 기술 | Python, pandas, Scipy, Scikit-learn, Matplotlib |
