@@ -53,11 +53,6 @@
 ├── README.md
 ├── analysis.ipynb          # 전체 분석 코드 (전처리 ~ 가설 검증 ~ 시각화)
 └── data/                   # 데이터 (Kaggle에서 다운로드)
-    ├── 2019-Oct.csv
-    ├── 2019-Nov.csv
-    ├── 2019-Dec.csv
-    ├── 2020-Jan.csv
-    └── 2020-Feb.csv
 ```
 
 ## 상세 분석 보기
